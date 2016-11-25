@@ -1,0 +1,19 @@
+{
+  "name": "mongoex",
+  "version": "1.0.0",
+  "description": "practice for MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/true1star/mongodb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/true1star/mongodb/issues"
+  },
+  "homepage": "https://github.com/true1star/mongodb#readme"
+}
